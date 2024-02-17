@@ -20,17 +20,17 @@
 
 
 ```python
-┌──(Ayhuuu@root)-[~/]
-└─$ cat Ayhuuu.py
+┌──(ORIXMAN@root)-[~/]
+└─$ cat ORIXMAN.py
 
-class Ayhuuu:
+class orixman:
 
 def  __social__(self):
- self.gtb = "https://github.com/Ayhuuu"
- self.dsc = "Ayhu..." 
- self.tlg = "Ayhu..."
+ self.gtb = "https://github.com/orixman"
+ self.dsc = "orixman..." 
+ self.tlg = "orixman..."
   
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(orixman@root)-[~/]
  └─$
 ```
 
